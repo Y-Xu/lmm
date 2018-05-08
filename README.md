@@ -7,9 +7,9 @@ Traditional word embedding approaches learn semantic information at word level w
 
 # Citation:
 
-@inproceedings{xu2018incorporating,
-  title={Incorporating Latent Meanings of Morphological Compositions to Enhance Word Embeddings},
-  author={Xu, Yang and Liu, Jiawei and Yang, Wei and Huang, Liusheng},
-  booktitle={Proceedings of the 56th Annual Meeting of the Association for Computational Linguistics},
+@inproceedings{xu2018incorporating,\\
+  title={Incorporating Latent Meanings of Morphological Compositions to Enhance Word Embeddings},\\
+  author={Xu, Yang and Liu, Jiawei and Yang, Wei and Huang, Liusheng},\\
+  booktitle={Proceedings of the 56th Annual Meeting of the Association for Computational Linguistics},\\
   year={2018}
 }
