@@ -1,0 +1,263 @@
+acer	bitter, sour, sharp
+acid	bitter, sour, sharp
+acri	bitter, sour, sharp
+acu	sharp
+ag	do, move, go
+agi	do, move, go
+ig	do, move, go
+act	do, move, go
+ali	other
+allo	other
+alter	other
+alt	high, deep
+am, amor	love, liking
+am, amor	love, liking
+am, amor	love, liking
+anni, annu, enni	year
+anthrop	man
+anti(co)	old
+arch	chief, first, rule
+aster, astr	star
+aud, aus	hear, listen
+aug, auc	increase
+auto, aut	self
+belli	war
+bibl	book
+bio	life
+brev	short
+cad, cas	to fall
+calor	heat
+cap, cip, cept	take
+capit, capt	head
+carn	flesh
+caus, caut	burn, heat
+cause, cuse, cus	cause, motive
+ced, ceed, cede, cess	move, yield, go, surrender
+cenetri	center
+chrom	color
+chron	time
+cide, cise	cut down, kill
+cit	call, start
+civ	citizen
+clam, claim	cry out
+clud, clus, claus	shut
+cognoac, gnosi	know
+cord, cor, cardi	heart
+corp	body
+cosm	universe, world
+crat, cracy	rule
+crea	create
+cred	believe
+cresc, cret, crease, cru	rise, grow
+crit	separate, choose
+cur, curs	run
+cura	care
+cycl, cyclo	wheel, circular
+deca	ten
+dem	people
+dent, dont	tooth
+derm	skin
+dict	say, speak
+doc, dokein	teach
+domin	master
+don	give
+dorm	sleep
+dox	opinion, praise
+drome	run, step
+duc, duct	lead
+dura	hard, lasting
+dynam	power
+endo	within
+equi	equal
+erg	work
+fac, fact, fic, fect	do, make
+fall, fals	deceive
+fer	bear, carry
+fid, fide, feder(is)	faith, trust
+fila, fili	thread
+fin	end, ended, finished
+fix	fix
+flex, flect	bend
+flu, fluc, fluv	flowing
+form	form, shape
+fort, forc	strong
+fract, frag	break
+gam	marriage
+gastr (o)	stomach
+gen	birth, race, produce
+geo	earth
+germ	vital part
+gest	carry, bear
+gloss, glot	tongue
+glu, glo	lump, bond, glue
+grad, gress	step, go
+graph, gram	write, written
+grat	pleasing
+grav	heavy, weighty
+greg	herd
+hypn	sleep
+helio	sun
+hema, hemo	blood
+here, hes	stick
+hetero	different
+homo	same
+hum, human	earth, ground, man
+hydr, hydra, hydro	water
+ignis	fire
+ject	throw
+join, junct	join
+juven	young
+lau, lav, lot, lut	wash
+leg	law
+levi	light
+liber, liver	free
+liter	letters
+loc, loco	place
+log, logo, ology	word, study, speech
+loqu, locut	talk, speak
+luc, lum, lus, lun	light
+macr-, macer	lean
+magn	great
+man	hand
+mand	command
+mania	madness
+mar, mari, mer	sea, pool
+matri	mother
+medi	half, middle, between, halfway
+mega	great
+mem	remember
+meter	measure
+micro	small
+migra	wander
+mit, miss	send
+mob, mot, mov	move
+mon	warn, remind
+mor, mort	mortal, death
+morph	form
+multi	many, much
+nat, nasc	to be from, to spring forth
+neo	new
+neur	nerve
+nom	law, order
+nomen, nomin	name
+nov	new
+nox, noc	night
+numer	number
+numisma	coin
+oligo	few, little
+omni	all, every
+onym	name
+oper	work
+ortho	straight, correct
+pac	peace
+paleo	old
+pan	all
+pater, patr	father
+path, pathy	feeling, suffering
+ped, pod	foot
+pedo	child
+pel, puls	drive, urge
+pend, pens, pond	hang, weigh
+phage	eat
+phil	love
+phlegma	inflammation
+phobia, phobos	fear
+phon	sound
+photo	light
+plac, plais	please
+plu, plur, plus	more
+pneuma, pneumon	breath
+pod (see ped)
+poli	city
+poly	many
+pon, pos, pound	place, put
+pop	people
+port	carry
+portion	part, share
+pot	power
+prehendere	seize, grasp
+prim, prime	first
+proto	first
+psych	mind, soul
+punct	point, dot
+reg, recti	straighten
+ri, ridi, risi	laughter
+rog, roga	ask
+rupt	break
+sacr, sanc, secr	sacred
+salv, salu	safe, healthy
+sat, satis	enough
+sci, scientia	know
+scope	see, watch
+scrib, script	write
+sed, sess, sid	sit
+sen	old
+senescere	to grow old
+sent, sens	feel
+sequ, secu, sue	follow
+serv	save, serve
+sign, signi	sign, mark, seal
+simil, simul	like, resembling
+sist, sta, stit	stand
+solus	alone
+solv, solu	loosen
+somnus	sleep
+soph	wise
+spec, spect, spic	look
+sphere	ball, sphere
+spir	breath
+string, strict	draw tight
+stru, struct	build
+sume, sump	take, use, waste
+tact, tang, tag, tig, ting	touch
+tele	far
+tempo	time
+ten, tin, tain	hold
+tend, tent, tens	stretch, strain
+terra	earth
+test	to bear witness
+the, theo	god, a god
+therm	heat
+thesis, thet	place, put
+tom	cut
+tort, tors	twist
+tox	poison
+tract, tra	draw, pull
+tom	cut
+tors	twist
+tort	twist
+tox	poison
+tract	draw, pull
+tra	draw, pull
+trib	pay, bestow
+turbo	disturb
+typ	print
+ultima	last
+umber	shadow
+umbraticum	shadow
+uni	one
+vac	empty
+vale	strength, worth
+vali	strength, worth
+valu	strength, worth
+ven	come
+vent	come
+ver	true
+veri	true
+vert	turn
+vers	turn
+vic	change, substitute
+vicis	change, substitute
+vict	conquer
+vinc	conquer
+vid	see
+vis	see
+viv	alive, life
+vita	alive, life
+vivi	alive, life
+voc	call
+vol	will
+volcan	fire
+volvo	turn about, roll
+vor	eat greedily
+zo	animal

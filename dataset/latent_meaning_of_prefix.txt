@@ -1,0 +1,91 @@
+an	without, not
+a	without, not
+ab	apart, away from
+abs	apart, away from
+a	apart, away from
+ad	toward
+agere	act
+amphi	round, both
+ambi	round, both
+ante	before
+anthro	man
+anti	against
+aqua	water
+archaios	ancient
+archos	leader, first, chief
+audio	hear
+auto	self
+bi	two
+bene	well, favorable
+bible	book
+bio	life
+caco	bad
+cide	kill
+circum	around
+constitutus	stand
+corpus	body
+cracy	rule
+credo	belief
+demos	people
+di	two, double
+dia	across, through
+dis	not, apart
+dominus	lord
+dynasthai	able
+ego	i, self
+ego	i, self
+epi	upon, over
+ex	out
+federis	league, pact
+frater	brother
+geo	earth
+graph	write, record
+hetero	mixed, unlike
+homo	same, alike
+idem	the same
+ideo	idea
+idios	own
+in	in
+in	not
+im	not
+inter	between
+legis	law
+lexis	word
+liber	free, book
+locus	place
+macro	large
+mania	obsession
+meter	measure
+micro	small
+mittere	send
+mitto	send
+mono	one, single
+mortis	death
+nomen	name
+olig	few
+pater	father
+ped	foot
+peri	around
+phage	eat
+philo	love
+polein	sell
+polis	city
+poly	many
+porto	carry
+post	after
+pre	before
+pro	before, in favor of
+psyche	mind, soul
+publicus	people
+riparia	river
+scope	examine
+scribo	write
+solus	alone
+subter	under, secret
+sin	together, with
+tele	distance
+trans	across
+utilis	useful
+vide	see
+visibil	see
+vis	see
