@@ -9,7 +9,7 @@ Secondly, performing an unsupervised morpheme segmentation using Morefessor (htt
 
 Then, executing matching between the segmentation results and the morphological compositions in the lookup tables, which can be found in the "../dataset" directory.
 
-Finally replaceing the morphemes with their latent meanings.
+Finally replaceing the matched morphemes with their latent meanings.
 
 ##Training
 
