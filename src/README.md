@@ -5,7 +5,7 @@ This code is developed based on the classic CBOW model, and it is avaiable at ht
 
 Firstly, preprocess your traning corpus and generate the vocabulary of your corpus.
 
-Secondly, perform an unsupervised morpheme segmentation using [Morefessor] (http://morpho.aalto.fi/projects/morpho/) for the vocabularies.
+Secondly, perform an unsupervised morpheme segmentation using Morefessor (http://morpho.aalto.fi/projects/morpho) for the vocabularies.
 
 Then, execute matching between the segmentation results and the morphological compositions in the lookup tables, which can be found in the "../dataset" directory.
 
