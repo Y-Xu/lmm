@@ -13,6 +13,6 @@ Finally replace the matched morphemes with their latent meanings.
 
 ## Training
 
-use make to compile lmm-a.c lmm-s.c and lmm-m.c
+use "make" to compile lmm-a.c lmm-s.c and lmm-m.c
 
-run the script train_word_embedding.sh to training word embeddings.
+run the script "train_word_embedding.sh" to train word embeddings.
