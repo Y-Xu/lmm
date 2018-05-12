@@ -1,5 +1,5 @@
 # The source code of our LMMs
-This code is developed based on the classic CBOW model, and it is avaiable at https://github.com/dav/word2vec
+This code is developed based on the classic CBOW model,which is avaiable at https://github.com/dav/word2vec
 
 ## Preprocessing
 
