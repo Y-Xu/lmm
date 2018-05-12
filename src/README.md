@@ -3,7 +3,7 @@ This code is developed based on the classic CBOW model, which is avaiable at htt
 
 ## Preprocessing
 
-Firstly, preprocess your traning corpus and generate the vocabulary of your corpus.
+Firstly, preprocess your training corpus and generate the vocabulary of your corpus.
 
 Secondly, perform an unsupervised morpheme segmentation using Morefessor (http://morpho.aalto.fi/projects/morpho) for the vocabularies.
 
@@ -13,6 +13,6 @@ Finally replace the matched morphemes with their latent meanings.
 
 ## Training
 
-use "make" to compile lmm-a.c lmm-s.c and lmm-m.c
+use "make" to compile lmm-a.c, lmm-s.c and lmm-m.c
 
 run the script "train_word_embedding.sh" to train word embeddings.
